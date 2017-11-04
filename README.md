@@ -1,0 +1,2 @@
+# Alghoritms
+Ideas of alghoritms
